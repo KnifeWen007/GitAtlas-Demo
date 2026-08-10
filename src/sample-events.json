@@ -1,0 +1,17 @@
+[
+  {
+    "type": "commit",
+    "label": "提交",
+    "color": "cyan"
+  },
+  {
+    "type": "merge",
+    "label": "合并",
+    "color": "violet"
+  },
+  {
+    "type": "alert",
+    "label": "问题",
+    "color": "amber"
+  }
+]
