@@ -1,2 +1,2 @@
-export const defaultView = 'overview';
+export const defaultView = 'operations';
 export const showOperations = true;
