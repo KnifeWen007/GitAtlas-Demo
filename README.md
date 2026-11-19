@@ -1,6 +1,12 @@
 # GitAtlas-Demo
 
-官方演示仓库，用来展示 GitAtlas 的提交图谱、分支关系、标签、工作区状态和操作台。
+GitAtlas 官方演示仓库：
+
+- 远程地址：[github.com/KnifeWen007/GitAtlas-Demo](https://github.com/KnifeWen007/GitAtlas-Demo)
+- 本地路径：`F:\Projects\GitAtlas-Demo`
+- 主项目：[github.com/KnifeWen007/GitAtlas](https://github.com/KnifeWen007/GitAtlas)
+
+用来展示 GitAtlas 的提交图谱、分支关系、标签、工作区状态和操作台。
 
 ## 这个仓库故意包含什么
 
